@@ -10,4 +10,10 @@ Test-run из Qase [ссылка на документ](https://drive.google.com
 
 Отчет по результатам тестирования [ссылка на документ](https://docs.google.com/spreadsheets/d/1io_lAyuGQY8_0Mr6kZ-XAaUPysENW4eDCuiXg5AJRf8/edit?usp=sharing)
 
+## Перехват трафика
+
+Перехват трафика используется на стыке мобильных и веб-приложений. Для этого применяют снифферы, такие как Charles Proxy, Fiddler или Proxyman.
+Рассмотрим различные тестовые сценарии для приложения "Интернет-магазин", используя [Charles Proxy](https://docs.google.com/document/d/10-EoFN9ey_mOQm13b3Ierp3clvaJuJX3OHQ6HozF6Bs/edit?usp=sharing) 
+
+
 
